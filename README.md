@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHAMOL-KUMAR-DAS
-- 👀 I’m interested in Android App Developer.
-- 🌱 I’m currently learning java & Android Studio.
+- 👀 I’m interested in Mobile Application Development.
+- 🌱 I’m currently Working with Flutter.
 - 💞️ I’m looking to collaborate on App(s) developer.
 - 📫 How to reach me infinite..
 
